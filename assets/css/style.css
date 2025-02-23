@@ -1,0 +1,12 @@
+.btn-primer{
+    background-image: linear-gradient(to right top, #11544c, #155c51, #1a6555, #206d59, #27765d);
+    color: white !important;
+}
+.btn-primer:hover{
+    background-image: linear-gradient(to left top, #11544c, #155c51, #1a6555, #206d59, #27765d);
+    color: white !important;
+}
+
+.text-cloro{
+    color: #11544c !important;
+}
